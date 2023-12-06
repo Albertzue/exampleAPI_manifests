@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: zhuyunjie0207/demo_web_api
-  tag: "latest"
+  tag: "1206"
 
 service:
   type: ClusterIP
